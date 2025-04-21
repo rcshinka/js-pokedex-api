@@ -1,2 +1,2 @@
 # js-pokedex-api
-Programa para estudo de utilização api.
+Programa feito para aplicar estudos sobre api
